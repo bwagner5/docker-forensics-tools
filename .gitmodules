@@ -1,0 +1,6 @@
+[submodule "docker-the-sleuth-kit"]
+	path = docker-the-sleuth-kit
+	url = git@github.com:bwagner5/docker-the-sleuth-kit.git
+[submodule "docker-mig-clients"]
+	path = docker-mig-clients
+	url = git@github.com:bwagner5/docker-mig-clients.git
